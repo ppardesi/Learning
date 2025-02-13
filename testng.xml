@@ -4,7 +4,6 @@
     <test thread-count="5" name="Regression">
          <classes>
              <class name="SeleniumLearning.BaseClass"/>
-             
           </classes>
      </test> <!-- Test -->
 </suite> <!-- Suite -->
